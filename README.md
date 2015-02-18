@@ -1,4 +1,4 @@
-# myspace
+# The original MySpace clone
 
 ###The HTML was sourced from Wayback Machine, and the PHP, and HTML modifications were made by Nicolas Provencher
 
